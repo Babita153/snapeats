@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# React Native build
+.bundle/
+android/build/
+ios/build/
+
+# Logs
+*.log
